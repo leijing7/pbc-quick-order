@@ -1,0 +1,4 @@
+nid,ex,type,name,apiKey,secret,cap,online,note
+1,bn,test,test01,#####,-,100,1,
+1,bn,customer,vip01,######,-,10000,1,
+2,bn,customer,vip02,######,-,10000,0,
