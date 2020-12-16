@@ -16,9 +16,10 @@
 
 另外一个账户设置的 tab，可以修改各个账号各个币种的逐全仓模式，应对不同的策略，还有持仓方向等等。
 
-<img src="./static/orc-gui1.jpg" width="400" height="480"/> 
-
-<img src="./static/orc-gui2.jpg" width="400" height="480"/>
+<p float="center">
+    <img src="./static/orc-gui1.jpg" width="400" height="480"/> 
+    <img src="./static/orc-gui2.jpg" width="400" height="480"/>
+</p>
 
 目前这个工具只支持币安的永续合约。[Github 代码地址](https://link.zhihu.com/?target=https%3A//github.com/leijing7/pbc-quick-order)。
 
