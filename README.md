@@ -29,7 +29,7 @@
 ok，大概就是这些。想要详细了解的还是看代码吧。或者你要开发自己的下单软件，这个可能会提供一些思路。
 
 > 最后，下面是我的币安注册推荐链接。用这个注册，你可以获得 10% 的交易手续费折扣。
-> [https://www.binance.com/en/register?ref=NT7CZ17Q](https://www.binance.com/en/register%3Fref%3DNT7CZ17Q)
+> [https://www.binance.com/en/register?ref=NT7CZ17Q](https://www.binance.com/en/register?ref=NT7CZ17Q)
 
 -----
 
