@@ -18,6 +18,7 @@
 
 <p float="center">
     <img src="./static/orc-gui1.jpg" width="400" height="480"/> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./static/orc-gui2.jpg" width="400" height="480"/>
 </p>
 
